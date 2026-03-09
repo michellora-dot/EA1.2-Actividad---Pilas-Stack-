@@ -60,6 +60,13 @@ Escribir texto:
 Deshacer acción:
 <img width="1920" height="1140" alt="Captura de pantalla 2026-03-09 175715" src="https://github.com/user-attachments/assets/a3422c8c-05ec-4f08-ae53-805a805f7ef7" />
 
+Rehacer acción:
+<img width="1920" height="1140" alt="Captura de pantalla 2026-03-09 152655" src="https://github.com/user-attachments/assets/bad979b1-9fc2-4f2e-8e66-353339f15533" />
+
+Mostrar texto actual:
+<img width="1920" height="1140" alt="Captura de pantalla 2026-03-09 152733" src="https://github.com/user-attachments/assets/4ea0aa4c-04bd-4eb4-9580-52c423694ca2" />
+
+
 
 
 
