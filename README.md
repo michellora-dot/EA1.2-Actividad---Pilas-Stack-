@@ -8,6 +8,33 @@ El objetivo es comprender el funcionamiento de las pilas y aplicarlo en un progr
 ## Tecnologías utilizadas
 
 -Java
+
 -IntelliJ IDEA
+
 -Git
+
 -GitHub
+
+## Funcionalidades del programa
+
+El programa permite:
+
+1. Escribir texto desde la consola.
+
+2. Deshacer la última acción (Undo).
+
+3. Rehacer una acción deshecha (Redo).
+
+4. Mostrar el texto actual.
+
+5. Salir del programa.
+
+Para lograrlo se utilizan dos pilas:
+
+Pila principal: almacena las acciones realizadas.
+
+Pila secundaria: almacena las acciones deshechas para poder rehacerlas.
+
+Pila principal: almacena las acciones realizadas.
+
+Pila secundaria: almacena las acciones deshechas para poder rehacerlas.
