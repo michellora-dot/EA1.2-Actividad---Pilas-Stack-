@@ -57,6 +57,8 @@ Menú del programa:
 Escribir texto:
 <img width="1920" height="1140" alt="Captura de pantalla 2026-03-09 152527" src="https://github.com/user-attachments/assets/47bb204f-011a-409d-a8b5-2e5aea183e36" />
 
+Deshacer acción:
+<img width="1920" height="1140" alt="Captura de pantalla 2026-03-09 175715" src="https://github.com/user-attachments/assets/a3422c8c-05ec-4f08-ae53-805a805f7ef7" />
 
 
 
