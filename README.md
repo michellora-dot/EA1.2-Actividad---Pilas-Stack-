@@ -66,7 +66,8 @@ Rehacer acción:
 Mostrar texto actual:
 <img width="1920" height="1140" alt="Captura de pantalla 2026-03-09 152733" src="https://github.com/user-attachments/assets/4ea0aa4c-04bd-4eb4-9580-52c423694ca2" />
 
-
+## Contribuyentes
+- Michel Stiven Lora Ramirez
 
 
 
