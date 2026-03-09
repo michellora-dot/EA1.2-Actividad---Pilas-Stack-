@@ -35,6 +35,18 @@ Pila principal: almacena las acciones realizadas.
 
 Pila secundaria: almacena las acciones deshechas para poder rehacerlas.
 
-Pila principal: almacena las acciones realizadas.
+## Instrucciones de ejecución
 
-Pila secundaria: almacena las acciones deshechas para poder rehacerlas.
+1. Clonar el repositorio desde GitHub.
+
+2. Abrir el proyecto en IntelliJ IDEA o cualquier IDE compatible con Java.
+
+3. Compilar los archivos .java.
+
+4. Ejecutar el archivo:
+
+EditorDeTexto.java
+
+5. Usar el menú que aparece en consola.
+
+
