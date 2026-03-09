@@ -49,4 +49,10 @@ EditorDeTexto.java
 
 5. Usar el menú que aparece en consola.
 
+## Capturas de pantalla
+
+Menú del programa:
+<img width="1920" height="1140" alt="Captura de pantalla 2026-03-09 152241" src="https://github.com/user-attachments/assets/378b1fee-4adf-41eb-87a0-29ae5df7f7fb" />
+
+
 
